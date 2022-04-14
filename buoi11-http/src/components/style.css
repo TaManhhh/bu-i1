@@ -1,0 +1,14 @@
+.phim{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 0;
+    width: 100%;
+    list-style: none;
+    gap: 30px;
+}
+.phim-item{
+    width: 30%;
+    cursor: pointer;
+    border: 1px solid;
+}
